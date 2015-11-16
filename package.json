@@ -1,5 +1,5 @@
 {
-  "name": "arduino-sensor-stream",
+  "name": "arduino-distance-sensor-stream",
   "version": "1.0.0",
   "description": "Get sensor data as stream",
   "main": "index.js",
@@ -13,6 +13,7 @@
   "keywords": [
     "arduino",
     "distance",
+    "proximity",
     "sensor",
     "sensor",
     "stream"
