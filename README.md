@@ -14,7 +14,7 @@ new ProximitySensor({
 
 ```
 
-** Note **
+**Note**
 
 Some sensor devices require a [special Firmata loaded](http://johnny-five.io/api/proximity/#pingfirmata)
 
