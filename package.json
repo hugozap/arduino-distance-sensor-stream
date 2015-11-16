@@ -1,0 +1,30 @@
+{
+  "name": "arduino-sensor-stream",
+  "version": "1.0.0",
+  "description": "Get sensor data as stream",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hugozap/arduino-distance-sensor-stream.git"
+  },
+  "keywords": [
+    "arduino",
+    "distance",
+    "sensor",
+    "sensor",
+    "stream"
+  ],
+  "author": "@hugozap",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hugozap/arduino-distance-sensor-stream/issues"
+  },
+  "homepage": "https://github.com/hugozap/arduino-sensor-stream#readme",
+  "dependencies": {
+    "johnny-five": "^0.9.10",
+    "readable-stream": "^2.0.4"
+  }
+}
